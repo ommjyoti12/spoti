@@ -12,9 +12,10 @@ body{
 }
 .sidebar{
     background-color: #000000;
-    width: 340px;
+    width: 150px;
     border-radius: 1rem;
     margin-right: 0.5rem;
+    overflow: auto;
 }
 .main-content{ background-color: #121212;
      flex: 1;
